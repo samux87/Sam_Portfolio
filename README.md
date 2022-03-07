@@ -1,7 +1,7 @@
 # Sam_Portfolio
 Work in Progress...
 
-# [Project 1 - AI Programming with Python course Project - Image Classifier](https://github.com/samux87/Image_Classifier)
+# [Project 1 - AI Programming with Python course Project - Image Classifier](https://github.com/samux87/Image_Classifier)  
 
 This is a image classifier coded for the "Udacity's AI Programming with Python Nanodegree" program using neural networks.
 
@@ -10,7 +10,7 @@ The Image Classifier recognize different species of flowers (102 classes).
 In this project, i first develop code for an image classifier built with PyTorch, then i converted it into a command line application.
 
 
-# [Project 2 - Dog Breed Classifier](https://github.com/samux87/Dog_Breed_Classifier)
+# [Project 2 - Dog Breed Classifier](https://github.com/samux87/Dog_Breed_Classifier)  
 
 The purpose of this project is to classify the different dog breeds. In the world, exists a lot of breeds of dogs that differences one to another by a lot of parameters such as high, size, kind of employment, etc. 
 
@@ -20,3 +20,9 @@ An output example:
 
 ![Dogs Detected: Golden retriever](images/dog.png)  
 Dogs Detected: Golden retriever
+
+# [Plagiarism Detector](https://github.com/samux87/Sagemaker_Plagiarism_Detector)  
+
+In this project, it was built a plagiarism detector that examines an answer text file and performs binary classification; labeling that file as either plagiarized or not, depending on how similar that text file is to a provided, source text. 
+
+This project was submitted for the Udacity Machine Learning Engineer Nanodegree.
