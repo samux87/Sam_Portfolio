@@ -21,7 +21,7 @@ An output example:
 ![Dogs Detected: Golden retriever](images/dog.png)  
 Dogs Detected: Golden retriever
 
-# [Plagiarism Detector](https://github.com/samux87/Sagemaker_Plagiarism_Detector)  
+# [Project 3 - Plagiarism Detector](https://github.com/samux87/Sagemaker_Plagiarism_Detector)  
 
 In this project, it was built a plagiarism detector that examines an answer text file and performs binary classification; labeling that file as either plagiarized or not, depending on how similar that text file is to a provided, source text. 
 
