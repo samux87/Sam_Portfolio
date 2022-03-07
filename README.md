@@ -18,5 +18,5 @@ For this project, the classification is totally based on images and the goal wil
 
 An output example:
 
-![Dogs Detected: Golden retriever](images/dog.png)
+![Dogs Detected: Golden retriever](images/dog.png)  
 Dogs Detected: Golden retriever
